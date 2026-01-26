@@ -1,5 +1,5 @@
-<title>"GARSAS / ŠVIESA"
-</title>
+<hr>"GARSAS / ŠVIESA"
+</hr>
 
 Garso ir šviesos įrangos nuoma renginiams
 

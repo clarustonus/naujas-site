@@ -1,5 +1,5 @@
 ---
-title: "ᕦʕ •ᴥ•ʔᕤ"
+title: "GARSAS / ŠVIESA"
 ---
 
 Today's websites are bloated, slow, and full of scripts, ads, and trackers. This

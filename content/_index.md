@@ -2,9 +2,7 @@
 title: "GARSAS / ŠVIESA"
 ---
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
+Garso ir šviesos įrangos nuoma renginiams
 
 > The internet has become a bloated mess. Huge JavaScript libraries, countless
 > client-side queries and overly complex frontend frameworks are par for the

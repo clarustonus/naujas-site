@@ -3,7 +3,7 @@ name: Deploy Hugo site
 on:
   push:
     branches:
-      - dependabot/submodules/themes/hugo-simple-6c60849
+      - main
 
 jobs:
   build:
@@ -29,4 +29,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-

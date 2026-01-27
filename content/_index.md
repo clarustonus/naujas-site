@@ -1,5 +1,6 @@
 ---
-title: "ᕦʕ •ᴥ•ʔᕤ"
+title: "Home"
+type: "home"
 ---
 
 Today's websites are bloated, slow, and full of scripts, ads, and trackers. This

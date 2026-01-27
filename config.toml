@@ -1,0 +1,5 @@
+baseURL = "https://clarustonus.lt/"
+languageCode = "lt"
+title = "Clarustonus"
+
+theme = "hugo-simple"

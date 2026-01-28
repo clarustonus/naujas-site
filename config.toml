@@ -4,3 +4,10 @@ title = "Clarustonus"
 theme = "hugo-simple"
 
 disableKinds = ["RSS"]
+
+[outputs]
+home = ["HTML"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term = ["HTML"]
+

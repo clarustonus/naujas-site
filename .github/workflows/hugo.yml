@@ -1,9 +1,10 @@
-name: Deploy Hugo site
-
-on:
-  push:
-    branches:
-      - main
+- name: Deploy
+  uses: peaceiris/actions-gh-pages@v4
+  with:
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+    publish_branch: gh-pages
+    publish_dir: ./public
+    cname: clarustonus.lt
 
 jobs:
   build:

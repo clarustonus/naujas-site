@@ -1,7 +1,6 @@
----
-title: "Home"
----
-
-## VEIKIA 🎉
-
-Tai yra tikras Hugo puslapis.
+content/
+├── _index.md   ✅
+├── iranga/
+│   └── _index.md   ✅
+├── kontaktai/
+│   └── _index.md   ✅
